@@ -40,7 +40,7 @@ public class Main {
             if (i % 79 == 0) {
                 System.out.println(i);
             }
-
+//вторая попытка выложить домашку на проверку
         }
 
 
